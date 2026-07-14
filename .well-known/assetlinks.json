@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.princekhangar184507_creator.twa",
+    "sha256_cert_fingerprints": ["9B:A1:40:17:59:F3:E3:79:B3:AF:65:DF:23:B4:7B:A2:AA:A7:CB:F7:1A:B6:22:4B:E7:EB:A6:BF:02:7E:89:6E"]
+  }
+}]
