@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.lionscrictracker",
-    "sha256_cert_fingerprints": ["2D:2D:53:A8:89:E5:F4:A0:3F:08:C2:75:3E:BD:37:53:38:23:62:35:77:BE:EB:8C:8B:74:F9:79:EC"]
+    "sha256_cert_fingerprints": ["2D:2D:53:A8:89:E5:F4:A0:3F:08:C2:75:3E:BD:37:53:3D:0C:B7:BF:90:4E:B2:F0:25:A8:2F:0C:D3:27:EA:E3"]
   }
 }]
